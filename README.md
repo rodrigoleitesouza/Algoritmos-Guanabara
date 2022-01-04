@@ -6,3 +6,5 @@ Link para a playlist com todas as aulas: https://www.youtube.com/playlist?list=P
 
 Eventualmente irei fazer novas atualizações.
 
+~
+
