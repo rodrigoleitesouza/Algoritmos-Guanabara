@@ -10,6 +10,7 @@ Segue abaixo os conhecimentos e as tecnologias desenvolvidas:
 
 - Lógica de Programação;
 - Algoritmos;
+- Portugol;
 - Operadores Lógicos;
 - Operadores Relacionais;
 - Estruturas Condicionais Simples;
