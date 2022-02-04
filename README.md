@@ -1,6 +1,6 @@
-# Portugol-Guanabara 📗
+# Algoritmos-Guanabara 📗
 
-O presente repositório refere-se aos meus estudos e, também, a todos os códigos que desenvolvi durante meus aprendizados em Portugol utilizando visuAlg e assistindo às aulas do Guanabara.
+O presente repositório refere-se aos meus estudos e, também, a todos os códigos que desenvolvi durante meus aprendizados em algoritmos utilizando visuAlg e assistindo às aulas do Guanabara.
 
 Link para a playlist com todas as aulas: https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV
 
@@ -10,7 +10,6 @@ Segue abaixo os conhecimentos e as tecnologias desenvolvidas:
 
 - Lógica de Programação;
 - Algoritmos;
-- Portugol;
 - Operadores Lógicos;
 - Operadores Relacionais;
 - Estruturas Condicionais Simples;
