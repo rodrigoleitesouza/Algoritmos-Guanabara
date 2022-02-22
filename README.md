@@ -1,6 +1,6 @@
 # Algoritmos-Guanabara 📗
 
-O presente repositório refere-se aos meus estudos e, também, a todos os códigos que desenvolvi durante meus aprendizados em algoritmos utilizando visuAlg e assistindo às aulas do Guanabara.
+O presente repositório refere-se aos meus estudos e, também, a todos os códigos que desenvolvi durante meus aprendizados em lógica de programação e algoritmos utilizando visuAlg e assistindo às aulas do Curso Em Vídeo do professor Gustavo Guanabara.
 
 Link para a playlist com todas as aulas: https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV
 
